@@ -1,0 +1,26 @@
+export default {
+	desc1: 'hợp đồng thông minh',
+	desc2: 'nền tảng chơi game',
+	desc3: `Hợp đồng mã nguồn mở giúp tiền của bạn an toàn hơn <br />
+     Các sản phẩm mới được giới thiệu và nhiều trò chơi cập nhật hơn đang chờ bạn giành chiến thắng`,
+	desc4: 'Tới sòng bạc',
+	desc5: 'Đi chơi thể thao',
+	desc6: 'Trò chơi tham gia gần đây',
+	desc9: 'giấy phép trực tuyến cho người chia bài làm đẹp trò chơi roulette',
+	desc11: 'Hàng nghìn trò chơi cho bạn lựa chọn, đa dạng thể loại trò chơi',
+	desc13: 'Các phương pháp cá cược đa dạng cho phép bạn trải nghiệm sự phấn khích khác nhau',
+	desc18: 'Tại sao chọn chúng tôi?',
+	desc19: 'Nhà cung cấp trò chơi',
+	desc20: 'dùng thử',
+	desc21: 'Tải xuống ỨNG DỤNG',
+	desc22: 'Chào mừng bạn đến với {n1} nền tảng sòng bạc',
+	desc23: 'Chào mừng {n} đến với {n1} nền tảng sòng bạc',
+	desc24: 'Phần thưởng nạp lần đầu',
+	desc25: 'Có thể nhận được tối đa 10 triệu giải thưởng',
+	desc26: 'Nạp tiền',
+	desc27: 'Hãy cam kết',
+	desc28: 'Đăng ký ngay',
+	desc29: 'Đăng ký để bắt đầu xổ số',
+	desc30: 'Xem',
+	desc31: 'Xem tất cả'
+}

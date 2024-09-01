@@ -1,0 +1,26 @@
+export default {
+	desc1: 'kontrak pintar',
+	desc2: 'platform game',
+	desc3: `Kontrak sumber terbuka membuat dana Anda lebih aman <br />
+     Produk baru diperkenalkan, dan lebih banyak gameplay yang diperbarui menunggu Anda untuk menang`,
+	desc4: 'Pergi ke kasino',
+	desc5: 'Berolahraga',
+	desc6: 'Game yang baru saja berpartisipasi',
+	desc9: 'lisensi online bandar kecantikan permainan roulette',
+	desc11: 'Ribuan permainan untuk Anda pilih, jenis permainan yang beragam',
+	desc13: 'Metode taruhan yang beragam memungkinkan Anda merasakan kegembiraan yang berbeda',
+	desc18: 'Mengapa memilih kami?',
+	desc19: 'Penyedia game',
+	desc20: 'percobaan',
+	desc21: 'Unduh APLIKASI',
+	desc22: 'Hai, selamat datang di {n1} platform kasino',
+	desc23: 'Halo, selamat datang {n} di {n1} platform kasino',
+	desc24: 'Hadiah isi ulang pertama',
+	desc25: 'Maksimal 10 juta hadiah bisa didapatkan',
+	desc26: 'Isi ulang',
+	desc27: 'Buat janji',
+	desc28: 'Daftar sekarang',
+	desc29: 'Daftar untuk memulai lotre',
+	desc30: 'Lihat',
+	desc31: 'Lihat semua'
+}

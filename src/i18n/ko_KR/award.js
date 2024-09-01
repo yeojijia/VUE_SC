@@ -1,0 +1,28 @@
+export default {
+  desc1: '이벤트 시간',
+  desc2: '자세히보기',
+  desc3: '이벤트',
+  desc4: '보상 받기',
+  desc5: '최대 보상',
+  desc6: '남은 {n}회 사용 가능',
+  desc7: '룰렛 기록',
+  desc8: '횟수 얻기',
+  desc9: '룰렛 시간',
+  desc10: '상금 얻기',
+  desc11: '상태',
+  desc12: '즉시 수령',
+  desc13: '횟수 얻기',
+  desc14: '얻은 시간',
+  desc15: '조건 충족',
+  desc16: '회수',
+  desc17: '미발행',
+  desc18: '발행 완료',
+  desc19: '수령 완료',
+  desc20: `<span class="text">축하합니다! </span>
+  {n1}님이 룰렛에서 <span class="price">$ {n2}</span>를 획득했습니다.`,
+  desc21: '수령 완료',
+  desc22: '이미지 저장',
+  desc23: "룰렛에서 플레이하려면 등록하세요",
+  desc24: '100% 당첨',
+  desc25: '계속해서 플레이'
+}

@@ -1,0 +1,28 @@
+export default {
+  desc1: 'Recarga y obtén recompensas',
+    desc2: 'Ver detalles',
+    desc3: 'Próximamente',
+    desc4: 'Ganar recompensas',
+    desc5: 'La mayor recompensa',
+    desc6: 'Te quedan {n} oportunidades',
+    desc7: 'Historial de premios',
+    desc8: 'Obtener oportunidades',
+    desc9: 'Tiempo del premio',
+    desc10: 'Cantidad del premio',
+    desc11: 'Estado del premio',
+    desc12: 'Recibir ahora',
+    desc13: 'Obtener oportunidades',
+    desc14: 'Tiempo de obtención',
+    desc15: 'Condiciones cumplidas',
+    desc16: 'Veces',
+    desc17: 'No entregado',
+    desc18: 'Entregado',
+    desc19: 'Recibido',
+    desc20: `<span class="text">¡Felicidades! </span>
+    {n1} ganó <span class="price"> $ {n2}</span> en la ruleta.`,
+    desc21: 'Recompensa recibida',
+    desc22: 'Guardar imagen',
+    desc23: "Regístrese para jugar en la ruleta",
+    desc24: '100% de premios',
+    desc25: 'Continuar jugando'
+}

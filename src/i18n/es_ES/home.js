@@ -1,0 +1,26 @@
+export default {
+	desc1: 'contrato inteligente',
+	desc2: 'plataforma de juego',
+	desc3: `Los contratos de código abierto hacen que sus fondos sean más seguros <br />
+     Se introducen nuevos productos y juegos más actualizados te esperan para ganar`,
+	desc4: 'Ir al casino',
+	desc5: 'Ir a deportes',
+	desc6: 'Juegos en los que participó recientemente',
+	desc9: 'licencia en línea del crupier de belleza del juego de ruleta',
+	desc11: 'Miles de juegos para elegir, tipos de juegos diversificados',
+	desc13: 'Los métodos de apuestas diversificados te permiten experimentar diferentes emociones',
+	desc18: '¿Por qué elegirnos?',
+	desc19: 'Proveedor de juegos',
+	desc20: 'prueba',
+	desc21: 'Descargar APLICACIÓN',
+	desc22: 'Hola, bienvenido a la plataforma de casino {n1}',
+	desc23: 'Hola, bienvenido {n} a {n1} plataforma de casino',
+	desc24: 'Premio primera recarga',
+	desc25: 'Se pueden obtener un máximo de 10 millones de premios',
+	desc26: 'Recargar',
+	desc27: 'Hacer una promesa',
+	desc28: 'Regístrese ahora',
+	desc29: 'Regístrese para comenzar la lotería',
+	desc30: 'Ver',
+	desc31: 'Ver todo'
+}

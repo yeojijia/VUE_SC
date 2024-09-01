@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="" class="h-full" data-theme="night">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- 关键字 -->
+    <!-- <meta name="Keywords" content="" /> -->
+    <!-- 简介 -->
+    <!-- <meta name="Description" content="" /> -->
+    <!-- 增加viewport-fit-cover -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover" />
+    <!-- 开启顶部安全区适配 -->
+    <van-nav-bar safe-area-inset-top />
+    <!-- 开启底部安全区适配 -->
+    <van-number-keyboard safe-area-inset-bottom />
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico" />
+    <link rel="stylesheet" href="loading.css" />
+    <!-- <title><%= htmlWebpackPlugin.options.title %></title> -->
+    <title>Global Game: 加密赌场游戏和 赌场老虎机游戏 - 加密博彩</title>
+  </head>
+  <style>
+    .loader-con {
+      position: fixed;
+      width: 100%;
+      height: 100%;
+      left: 0;
+      top: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #1a1c24;
+      z-index: 99999;
+      overflow: hidden;
+    }
+  </style>
+  <body class="h-full">
+    <noscript>
+      <strong>We're sorry but <%= htmlWebpackPlugin.options.title %> doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div class="loader-con" id="initloading">
+      <div class="loader-pacman"></div>
+    </div>
+    <div id="app"></div>
+
+    <!-- built files will be auto injected -->
+    <script>
+      var initloading = document.getElementById("initloading");
+      window.onload = function () {
+        initloading.style.display = "none";
+      };
+      (function () {
+        var w = window;
+        var ic = w.Intercom;
+        if (typeof ic === "function") {
+          ic("reattach_activator");
+          ic("update", w.intercomSettings);
+        } else {
+          var d = document;
+          var i = function () {
+            i.c(arguments);
+          };
+          i.q = [];
+          i.c = function (args) {
+            i.q.push(args);
+          };
+          w.Intercom = i;
+          var l = function () {
+            var s = d.createElement("script");
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://widget.intercom.io/widget/kk4cxzlp";
+            var x = d.getElementsByTagName("script")[0];
+            x.parentNode.insertBefore(s, x);
+          };
+          if (document.readyState === "complete") {
+            l();
+          } else if (w.attachEvent) {
+            w.attachEvent("onload", l);
+          } else {
+            w.addEventListener("load", l, false);
+          }
+        }
+      })();
+    </script>
+  </body>
+</html>

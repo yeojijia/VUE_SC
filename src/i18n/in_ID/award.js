@@ -1,0 +1,28 @@
+export default {
+  desc1: 'Isi Ulang Hadiah',
+  desc2: 'Putaran Keberuntungan',
+  desc3: 'Tunggu Kabar Selanjutnya',
+  desc4: 'Tarik Hadiah',
+  desc5: 'Hadiah Maksimum',
+  desc6: 'Sisa penggunaan {n} kali',
+  desc7: 'Riwayat Putaran',
+  desc8: 'Jumlah Penerimaan',
+  desc9: 'Waktu Putaran',
+  desc10: 'Jumlah Hadiah',
+  desc11: 'Status Hadiah',
+  desc12: 'Tuntaskan Sekarang',
+  desc13: 'Jumlah Penerimaan',
+  desc14: 'Waktu Penerimaan',
+  desc15: 'Persyaratan',
+  desc16: 'Jumlah',
+  desc17: 'Belum Diterbitkan',
+  desc18: 'Sudah Diterbitkan',
+  desc19: 'Sudah Diterima',
+  desc20: `<span class="text">Selamat! </span>
+  {n1} memenangkan <span class="price">$ {n2}</span> dalam Putaran Keberuntungan`,
+  desc21: 'Berhasil Diterima',
+  desc22: 'Simpan Gambar',
+  desc23: "Registrasi sekarang untuk berputar dan menang",
+  desc24: '100% menang',
+  desc25: 'Lanjutkan Putaran'
+}

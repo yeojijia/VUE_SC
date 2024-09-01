@@ -1,0 +1,26 @@
+export default {
+  desc1: 'Smart contract',
+  desc2: 'Gaming platform',
+  desc3: `Open source contracts make funds secure <br />
+  New products are introduced, more gameplays are waiting for you`,
+  desc4: 'Go casino',
+  desc5: 'Go sports',
+  desc6: 'Recently participated games',
+  desc9: 'Roulette game beauty croupier online licensing',
+  desc11: 'Thousands of games for you to choose , diversified game types',
+  desc13: 'Many betting methods allow you to experience excitement',
+  desc18: 'Why choose us?',
+  desc19: 'Game provider',
+  desc20: 'Trial',
+  desc21: 'Download APP',
+  desc22: 'Welcome to the {n1} casino',
+  desc23: 'Welcome {n} to the {n1} casino',
+  desc24: 'First recharge reward',
+  desc25: 'UP to <span>10 MILLION</span> obtained',
+  desc26: 'Recharge',
+  desc27: 'Staking',
+  desc28: 'Register now',
+  desc29: 'Register to start lucky draw',
+  desc30: 'Check',
+  desc31: 'Check all'
+}

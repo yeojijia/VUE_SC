@@ -1,0 +1,28 @@
+export default {
+  desc1: '充值送',
+  desc2: '幸運轉盤',
+  desc3: '敬請期待',
+  desc4: '抽取獎勵',
+  desc5: '最大獎勵',
+  desc6: '剩餘{n}次可以使用',
+  desc7: '轉盤記錄',
+  desc8: '獲取次數',
+  desc9: '轉盤時間',
+  desc10: '獲獎金額',
+  desc11: '獎品狀態',
+  desc12: '立即領取',
+  desc13: '獲取次數',
+  desc14: '獲取時間',
+  desc15: '滿足條件',
+  desc16: '次數',
+  desc17: '未發放',
+  desc18: '已發放',
+  desc19: '已領取',
+  desc20: `<span class="text">恭喜！ </span>
+  {n1}在轉盤中獲得 <span class="price"> $ {n2}</span>`,
+  desc21: '成功領取',
+  desc22: '保存圖片',
+  desc23: "註冊成功就可以轉轉盤抽獎",
+  desc24: '100%中獎',
+  desc25: '繼續抽獎'
+}
